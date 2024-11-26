@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-python-line-bot-sdk
+line-bot-sdk
 httpx
 python-multipart
+python-dotenv
